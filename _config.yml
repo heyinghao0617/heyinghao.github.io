@@ -6,17 +6,17 @@ email: heyinghao@hust.edu.cn
 description: "关于何英豪和陈子禾 | 这里是何英豪和陈子禾的爱情小屋，与你一起相信爱情。"
 keyword: "何英豪,陈子禾"
 url: "hhttp://heyinghao0617.github.io"              # your host, for absolute URL
-#baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/heyinghao0617"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
+weibo_username:     暂无
+zhihu_username:     暂无o
 github_username:    heyinghao0617
 #twitter_username:  huxpro
-#facebook_username:  huxpro
+facebook_username:  暂无
 
 
 
@@ -68,7 +68,11 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
+<<<<<<< HEAD
 sidebar-about-description: "爱的小屋。"
+=======
+sidebar-about-description: "1234"
+>>>>>>> 6e1f84ad1c7cdad25f21939a25dff128cbe573bd
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
